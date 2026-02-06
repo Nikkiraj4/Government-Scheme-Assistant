@@ -39,13 +39,48 @@ INFORMA provides a new approach to information access by combining AI-powered AP
 ## 🖥️ Demo Preview
 
 ### Website Interface
-![input Screenshot]!
+![input Screenshot](input.jpeg)
+![screenshot](image.jpeg)
+![output screenshot](output.jpeg)
+
 
 
 ### AI Interaction Demo
-![Demo GIF]
+![Demo GIF](demo.gif)
 
 ---
 
 ## 📂 Project Structure
+/INFORMA
+│── README.md
+│── design.md
+│── requirements.md
+│── input.jpeg
+│── image.jpeg
+│── output.jpeg
+│── demo.gif
+
+---
+
+## 🔮 Future Scope
+- Integration of Machine Learning models for better personalization
+- Multi-language support
+- Advanced intent detection and analytics
+- Mobile application version
+- User profiles and history tracking
+
+---
+
+## 👥 Team
+Team Name: AI Buddy
+
+Members:
+- Your Name – Nikita Kumari
+              Suraj Bhan
+  
+---
+
+## 🏁 Conclusion
+INFORMA demonstrates how AI-powered APIs and voice-based technologies can transform the way users access and understand information. The project has strong potential to evolve into a powerful intelligent information platform in the future.
+
 
